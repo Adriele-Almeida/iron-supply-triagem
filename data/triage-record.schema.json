@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TriageRecord",
+  "type": "object",
+  "required": ["imageId", "status"],
+  "properties": {
+    "imageId": {"type": "string"},
+    "status": {"enum": ["pendente", "aprovado", "ajuste", "descartado"]},
+    "motivos": {"type": "array", "items": {"type": "string"}},
+    "observacao": {"type": "string"},
+    "updatedAt": {"type": "string", "format": "date-time"}
+  }
+}

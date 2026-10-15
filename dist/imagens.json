@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IMG_0001",
+    "type": "arte",
+    "width": 1080,
+    "height": 1920,
+    "duplicate": "E001",
+    "similar": "S001",
+    "src": "/media/IMG_0001"
+  },
+  {
+    "id": "IMG_0246",
+    "type": "arte",
+    "width": 1080,
+    "height": 1920,
+    "duplicate": "E101",
+    "similar": "S001",
+    "src": "/media/IMG_0246"
+  },
+  {
+    "id": "IMG_0933",
+    "type": "arte",
+    "width": 1080,
+    "height": 1920,
+    "duplicate": "E001",
+    "similar": "S001",
+    "src": "/media/IMG_0933"
+  },
+  {
+    "id": "IMG_0002",
+    "type": "arte",
+    "width": 1080,
+    "height": 1920,
+    "duplicate": "E002",
+    "similar": null,
+    "src": "/media/IMG_0002"
+  },
+  {
+    "id": "IMG_0934",
+    "type": "arte",
+    "width": 1080,
+    "height": 1920,
+    "duplicate": "E002",
+    "similar": null,
+    "src": "/media/IMG_0934"
+  },
+  {
+    "id": "IMG_0176",
+    "type": "arte",
+    "width": 1122,
+    "height": 1402,
+    "duplicate": null,
+    "similar": "S034",
+    "src": "/media/IMG_0176"
+  },
+  {
+    "id": "IMG_0206",
+    "type": "arte",
+    "width": 941,
+    "height": 1672,
+    "duplicate": null,
+    "similar": "S034",
+    "src": "/media/IMG_0206"
+  },
+  {
+    "id": "IMG_0712",
+    "type": "arte",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": "S004",
+    "src": "/media/IMG_0712"
+  },
+  {
+    "id": "IMG_1250",
+    "type": "arte",
+    "width": 1122,
+    "height": 1402,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_1250"
+  },
+  {
+    "id": "IMG_0501",
+    "type": "arte",
+    "width": 1086,
+    "height": 1448,
+    "duplicate": "E165",
+    "similar": null,
+    "src": "/media/IMG_0501"
+  },
+  {
+    "id": "IMG_0615",
+    "type": "arte",
+    "width": 1058,
+    "height": 1487,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0615"
+  },
+  {
+    "id": "IMG_0627",
+    "type": "arte",
+    "width": 1086,
+    "height": 1448,
+    "duplicate": null,
+    "similar": "S084",
+    "src": "/media/IMG_0627"
+  },
+  {
+    "id": "IMG_0910",
+    "type": "arte",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": "S013",
+    "src": "/media/IMG_0910"
+  },
+  {
+    "id": "IMG_0930",
+    "type": "arte",
+    "width": 2172,
+    "height": 724,
+    "duplicate": "E262",
+    "similar": "S076",
+    "src": "/media/IMG_0930"
+  },
+  {
+    "id": "IMG_0016",
+    "type": "produto",
+    "width": 1086,
+    "height": 1448,
+    "duplicate": null,
+    "similar": "S003",
+    "src": "/media/IMG_0016"
+  },
+  {
+    "id": "IMG_0026",
+    "type": "produto",
+    "width": 1280,
+    "height": 960,
+    "duplicate": "E021",
+    "similar": null,
+    "src": "/media/IMG_0026"
+  },
+  {
+    "id": "IMG_1230",
+    "type": "produto",
+    "width": 1280,
+    "height": 960,
+    "duplicate": "E021",
+    "similar": null,
+    "src": "/media/IMG_1230"
+  },
+  {
+    "id": "IMG_0041",
+    "type": "produto",
+    "width": 1280,
+    "height": 1280,
+    "duplicate": "E029",
+    "similar": null,
+    "src": "/media/IMG_0041"
+  },
+  {
+    "id": "IMG_0473",
+    "type": "produto",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0473"
+  },
+  {
+    "id": "IMG_0481",
+    "type": "produto",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0481"
+  },
+  {
+    "id": "IMG_0632",
+    "type": "produto",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": "S022",
+    "src": "/media/IMG_0632"
+  },
+  {
+    "id": "IMG_0898",
+    "type": "produto",
+    "width": 1086,
+    "height": 1449,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0898"
+  },
+  {
+    "id": "IMG_0923",
+    "type": "produto",
+    "width": 1086,
+    "height": 1448,
+    "duplicate": null,
+    "similar": "S038",
+    "src": "/media/IMG_0923"
+  },
+  {
+    "id": "IMG_0650",
+    "type": "produto",
+    "width": 1153,
+    "height": 1364,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0650"
+  },
+  {
+    "id": "IMG_0023",
+    "type": "classificar",
+    "width": 1024,
+    "height": 1024,
+    "duplicate": "E020",
+    "similar": "S006",
+    "src": "/media/IMG_0023"
+  },
+  {
+    "id": "IMG_0244",
+    "type": "classificar",
+    "width": 3544,
+    "height": 3544,
+    "duplicate": null,
+    "similar": "S050",
+    "src": "/media/IMG_0244"
+  },
+  {
+    "id": "IMG_0329",
+    "type": "classificar",
+    "width": 3544,
+    "height": 3545,
+    "duplicate": null,
+    "similar": "S050",
+    "src": "/media/IMG_0329"
+  },
+  {
+    "id": "IMG_1256",
+    "type": "classificar",
+    "width": 1920,
+    "height": 1080,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_1256"
+  },
+  {
+    "id": "IMG_1266",
+    "type": "classificar",
+    "width": 1122,
+    "height": 1402,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_1266"
+  },
+  {
+    "id": "IMG_0628",
+    "type": "classificar",
+    "width": 1254,
+    "height": 1254,
+    "duplicate": null,
+    "similar": null,
+    "src": "/media/IMG_0628"
+  }
+]

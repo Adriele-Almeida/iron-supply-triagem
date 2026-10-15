@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DriveImageManifest",
+  "type": "object",
+  "required": ["id", "nome", "driveFileId", "url"],
+  "properties": {
+    "id": {"type": "string"},
+    "nome": {"type": "string"},
+    "driveFileId": {"type": "string"},
+    "url": {"type": "string", "format": "uri"},
+    "categoria": {"type": ["string", "null"]},
+    "grupoIdentico": {"type": ["string", "null"]},
+    "grupoSemelhanca": {"type": ["string", "null"]},
+    "largura": {"type": ["integer", "null"]},
+    "altura": {"type": ["integer", "null"]}
+  }
+}

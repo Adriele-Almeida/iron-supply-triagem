@@ -1,0 +1,46 @@
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T10:51:02.393090+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T10:51:02.674403+00:00"}}
+{"id": "IMG_0001", "patch": {"reasons": ["Logomarca"]}, "record": {"status": "ajuste", "reasons": ["Logomarca"], "observation": "", "updated_at": "2026-10-15T10:51:12.836922+00:00"}}
+{"id": "IMG_0001", "patch": {"observation": "Teste de usabilidade — observação única."}, "record": {"status": "ajuste", "reasons": ["Logomarca"], "observation": "Teste de usabilidade — observação única.", "updated_at": "2026-10-15T10:51:13.453079+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "Teste de usabilidade — observação única.", "updated_at": "2026-10-15T10:51:49.254710+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "Teste de usabilidade — observação única.", "updated_at": "2026-10-15T10:51:49.861439+00:00"}}
+{"id": "IMG_0001", "patch": {"reasons": ["Duplicado"]}, "record": {"status": "descartado", "reasons": ["Duplicado"], "observation": "Teste de usabilidade — observação única.", "updated_at": "2026-10-15T10:52:17.120301+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "Teste de usabilidade — observação única.", "updated_at": "2026-10-15T10:52:17.423487+00:00"}}
+{"id": "IMG_0001", "patch": {"observation": ""}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T10:52:18.048369+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:09:57.961448+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:01.541042+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:16.925832+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:18.150979+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:19.545155+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:33.461271+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:35.853180+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:37.790889+00:00"}}
+{"id": "IMG_0933", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:10:38.879309+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:43:58.074008+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:43:59.884069+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:00.868372+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:03.193454+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:03.980706+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:14.183377+00:00"}}
+{"id": "IMG_0246", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:14.781983+00:00"}}
+{"id": "IMG_0501", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:44:36.608379+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:46:02.345464+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:46:03.019150+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:46:03.628480+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:46:04.144068+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:01.569778+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:02.804062+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:03.350897+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:05.093780+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:06.687414+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:07.281620+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:07.906574+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:08.078388+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:08.660808+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:48:09.164537+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:51:52.587638+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T11:51:53.556317+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "descartado", "reasons": []}, "record": {"status": "descartado", "reasons": [], "observation": "", "updated_at": "2026-10-15T12:06:31.614875+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "pendente", "reasons": []}, "record": {"status": "pendente", "reasons": [], "observation": "", "updated_at": "2026-10-15T12:06:32.446106+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "ajuste", "reasons": []}, "record": {"status": "ajuste", "reasons": [], "observation": "", "updated_at": "2026-10-15T12:06:37.742074+00:00"}}
+{"id": "IMG_0001", "patch": {"status": "aprovado", "reasons": []}, "record": {"status": "aprovado", "reasons": [], "observation": "", "updated_at": "2026-10-15T12:06:38.419959+00:00"}}

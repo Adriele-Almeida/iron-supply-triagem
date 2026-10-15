@@ -1,0 +1,25 @@
+{
+  "images": 30,
+  "types": {
+    "produto": 10,
+    "arte": 14,
+    "classificar": 6
+  },
+  "original_image_bytes_served": 55918562,
+  "sha256_verified": 30,
+  "all_simulation_decisions_pending": true,
+  "outside_sample_blocked": true,
+  "browser_checks": [
+    "mark change and unmark",
+    "optional reasons",
+    "single observation autosaved",
+    "reload persistence",
+    "combined filters and dependent groups",
+    "true horizontal list",
+    "desktop grid 3 and 4 columns",
+    "mobile grid 1 2 3 and 5 columns without page overflow",
+    "full screen with previous next and zoom"
+  ],
+  "lan_url": "http://192.168.3.33:8766/",
+  "originals_modified": false
+}

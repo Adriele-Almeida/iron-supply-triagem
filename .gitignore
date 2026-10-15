@@ -1,0 +1,5 @@
+node_modules/
+*.log
+servidor-saida-*.log
+servidor-erros-*.log
+.env

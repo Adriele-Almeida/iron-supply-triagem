@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f4f3ef">
+  <title>Triagem de imagens · Iron Supply</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%231c211c'/%3E%3Cpath d='m10 21 7 7 14-16' fill='none' stroke='%23b5e068' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="app.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="page-header">
+    <div><h1>Triagem de imagens</h1><p class="client">Cliente Iron Supply</p></div>
+    <div class="sample"><strong>30 arquivos</strong><span>Protótipo</span></div>
+  </header>
+  <div class="toolbar" id="toolbar">
+    <div class="filter-bar" aria-label="Filtros">
+      <details class="filter" id="status-filter"><summary><span>Status</span><span class="filter-value" id="status-value">Todos</span></summary><div class="filter-panel" id="status-options"></div></details>
+      <details class="filter" id="category-filter"><summary><span>Categorias</span><span class="filter-value" id="category-value">Todas</span></summary><div class="filter-panel categories-panel"><p class="panel-label">Tipo de imagem</p><div id="type-options"></div><p class="panel-label separator">Agrupamento</p><div id="relation-options"></div></div></details>
+      <details class="filter" id="group-filter"><summary><span>Grupos</span><span class="filter-value" id="group-value">Todos</span></summary><div class="filter-panel" id="group-options"></div></details>
+      <button id="clear-filters" class="text-button" hidden>Limpar</button>
+    </div>
+    <div class="view-bar">
+      <div class="segmented" aria-label="Visualização"><button id="grid-view" class="icon-button selected" aria-label="Ver em grade" title="Ver em grade" aria-pressed="true"></button><button id="list-view" class="icon-button" aria-label="Ver em lista" title="Ver em lista" aria-pressed="false"></button></div>
+      <div class="density" id="density"><button id="fewer-columns" class="icon-button" aria-label="Menos cards por linha" title="Menos cards por linha">−</button><output id="column-count" aria-label="Cards por linha">3</output><button id="more-columns" class="icon-button" aria-label="Mais cards por linha" title="Mais cards por linha">+</button></div>
+      <span class="sync-state" id="sync-state" role="status">Conectando…</span>
+    </div>
+  </div>
+  <main id="gallery" class="gallery" aria-label="Imagens para triagem" aria-busy="true"></main>
+  <div id="empty" class="empty" hidden><strong>Nenhuma imagem nesta seleção.</strong><button class="text-button" id="empty-clear">Limpar filtros</button></div>
+  <div id="fatal" class="empty" hidden><strong>Não foi possível carregar o protótipo.</strong><button class="text-button" onclick="location.reload()">Tentar novamente</button></div>
+  <p class="prototype-note">As marcações desta amostra são de simulação.</p>
+  <dialog id="viewer" aria-label="Imagem em tela cheia">
+    <div class="viewer-header"><strong id="viewer-id"></strong><span id="viewer-position"></span><div class="viewer-tools"><button class="icon-button" id="zoom-out" aria-label="Reduzir imagem" title="Reduzir imagem">−</button><button class="icon-button" id="zoom-in" aria-label="Ampliar imagem" title="Ampliar imagem">+</button><button class="icon-button" id="close-viewer" aria-label="Fechar imagem" title="Fechar imagem">×</button></div></div>
+    <div class="viewer-body"><div class="viewer-picture"><div class="image-scroll" id="image-scroll"><img id="viewer-image" alt=""></div><button id="previous-image" class="nav-image previous" aria-label="Imagem anterior">‹</button><button id="next-image" class="nav-image next" aria-label="Próxima imagem">›</button></div><section id="viewer-review" class="viewer-review" aria-label="Triagem da imagem"></section></div>
+  </dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>
